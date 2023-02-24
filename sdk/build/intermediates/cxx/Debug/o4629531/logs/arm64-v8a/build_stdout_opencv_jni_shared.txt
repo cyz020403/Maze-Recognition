@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\littlegagaduck\Desktop\MyMaze\sdk\.cxx\Debug\o4629531\arm64-v8a'
+ninja: no work to do.
