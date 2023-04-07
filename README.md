@@ -1,6 +1,6 @@
 # Maze-Recognition
 
-A maze recognition project based on Android and OpenCV
+A maze recognition project based on Android and OpenCV.
 
 Initial picture：
 
