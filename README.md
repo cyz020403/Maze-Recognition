@@ -2,7 +2,7 @@
 
 A maze recognition project based on Android and OpenCV.
 
-It's also my Human-computer interaction lab.
+It's also my Human-computer interaction course lab.
 
 Initial picture：
 
